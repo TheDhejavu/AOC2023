@@ -1,4 +1,4 @@
-ninefourone1
+ python3 day01.py input2.txtninefourone1
 53sevenvvqm
 kscpjfdxp895foureightckjjl1
 72fivebt9ndgq
